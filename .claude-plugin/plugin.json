@@ -1,7 +1,7 @@
 {
   "name": "docuready",
   "displayName": "Docuready",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Make company documents usable for AI agents: audit readiness (duplicates, outdated and conflicting docs, gaps, sensitive data), design and apply a clean structure with index and glossary, and generate a company context file for agents (CLAUDE.md / AGENTS.md). Read-only by default; never deletes.",
   "author": {
     "name": "xelA31B"

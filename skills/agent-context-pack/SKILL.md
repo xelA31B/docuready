@@ -59,3 +59,8 @@ Pricing principles, refunds, SLAs, privacy — summary plus link to the source d
 ## Open questions
 - items marked to confirm
 ```
+
+## Recurring run
+
+Recommend a cadence at the end of the report: review the context file monthly and after any change in products, prices or policies.
+If the environment offers scheduled tasks (a scheduling tool is available), offer in one line to set one up, e.g. "every Monday at 09:00". Create it only after the user agrees and confirms day and time. Write the scheduled prompt so it is self-contained: what to check (project, repository or company), which skill to run, and where to deliver the result. If no scheduling tool is available, state the recommended cadence and suggest a calendar reminder.

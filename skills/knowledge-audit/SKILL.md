@@ -76,3 +76,8 @@ Group: Quick wins (this week) · Next 30 days · Ongoing
 ```
 
 Close with one line offering: build the new structure and index (`knowledge-structure`) or a company context file for agents (`agent-context-pack`).
+
+## Recurring run
+
+Recommend a cadence at the end of the report: a light re-audit monthly (new, duplicate and outdated documents) and a full audit quarterly.
+If the environment offers scheduled tasks (a scheduling tool is available), offer in one line to set one up, e.g. "every Monday at 09:00". Create it only after the user agrees and confirms day and time. Write the scheduled prompt so it is self-contained: what to check (project, repository or company), which skill to run, and where to deliver the result. If no scheduling tool is available, state the recommended cadence and suggest a calendar reminder.
