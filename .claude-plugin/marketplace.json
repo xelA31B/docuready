@@ -1,0 +1,14 @@
+{
+  "name": "docuready",
+  "owner": {
+    "name": "xelA31B"
+  },
+  "description": "Single-plugin marketplace by xelA31B: Make company documents usable for AI agents: audit readiness (duplicates, outdated and conflicting docs, gaps, sensitive data), design and apply a clean structure with index and glossary, and generate a company context file for agents (CLAUDE.md / AGENTS.md). Read-only by default; never deletes.",
+  "plugins": [
+    {
+      "name": "docuready",
+      "source": "./",
+      "description": "Make company documents usable for AI agents: audit readiness (duplicates, outdated and conflicting docs, gaps, sensitive data), design and apply a clean structure with index and glossary, and generate a company context file for agents (CLAUDE.md / AGENTS.md). Read-only by default; never deletes."
+    }
+  ]
+}

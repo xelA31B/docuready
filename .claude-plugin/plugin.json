@@ -1,0 +1,29 @@
+{
+  "name": "docuready",
+  "displayName": "Docuready",
+  "version": "0.1.0",
+  "description": "Make company documents usable for AI agents: audit readiness (duplicates, outdated and conflicting docs, gaps, sensitive data), design and apply a clean structure with index and glossary, and generate a company context file for agents (CLAUDE.md / AGENTS.md). Read-only by default; never deletes.",
+  "author": {
+    "name": "xelA31B"
+  },
+  "homepage": "https://github.com/xelA31B/docuready",
+  "repository": "https://github.com/xelA31B/docuready",
+  "documentationUrl": "https://github.com/xelA31B/docuready#readme",
+  "supportUrl": "https://github.com/xelA31B/docuready/issues",
+  "privacyPolicyUrl": "https://github.com/xelA31B/docuready/blob/main/PRIVACY.md",
+  "termsOfServiceUrl": "https://github.com/xelA31B/docuready/blob/main/TERMS.md",
+  "license": "MIT",
+  "keywords": [
+    "knowledge-base",
+    "documentation",
+    "ai-agents",
+    "ai-readiness",
+    "google-drive",
+    "notion",
+    "sharepoint",
+    "claude-md",
+    "agents-md",
+    "information-architecture"
+  ],
+  "icon": ".claude-plugin/icon.png"
+}
