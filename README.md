@@ -21,6 +21,16 @@ AI agents give wrong answers when company documents are a mess. Docuready audits
 | **knowledge-structure** | Folder taxonomy, naming convention, source-of-truth map, templates, index and glossary. Applied only after your confirmation; never deletes (archives instead) and logs every change. |
 | **agent-context-pack** | A compact `COMPANY_CONTEXT.md` (and `CLAUDE.md` / `AGENTS.md`) that tells AI agents who you are, what you sell, how to talk and what never to do. |
 
+## Commands
+
+Type `/` in Claude and pick a command:
+
+| Command | What it does |
+|---|---|
+| `/company-context [company or sources]` | Company context file for AI agents (CLAUDE.md / AGENTS.md) |
+| `/docs-audit [folder, drive or purpose]` | AI-readiness audit of company documents |
+| `/docs-structure [folder or drive]` | Design and apply a clean document structure for AI agents |
+
 ## How to use
 
 Works with a folder open in Claude Code or Cowork, uploaded files, or a connected drive (Google Drive, Notion, SharePoint, Confluence).
