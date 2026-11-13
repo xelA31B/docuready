@@ -77,6 +77,10 @@ Group: Quick wins (this week) · Next 30 days · Ongoing
 
 Close with one line offering: build the new structure and index (`knowledge-structure`) or a company context file for agents (`agent-context-pack`).
 
+## Branded report
+
+If the environment can render HTML artifacts or files, deliver the full report using `references/report-template.html` (fill the placeholders, keep the design and colours; use the score ring for the main score and status chips for pass / warn / fail / not checked). Otherwise use the markdown format above. Keep the chat reply to a short summary either way.
+
 ## Recurring run
 
 At the end of the report, offer a recurring run. Recommended cadence: a light re-audit monthly (new, duplicate and outdated documents) and a full audit quarterly.

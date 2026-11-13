@@ -43,6 +43,10 @@ Works with a folder open in Claude Code or Cowork, uploaded files, or a connecte
 
 Concise, professional reports in the language of your request. Read-only by default, never deletes, never prints sensitive content.
 
+## Reports
+
+Concise reports in the language of your request, delivered as a branded HTML report where supported.
+
 ## License
 
 MIT
