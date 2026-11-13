@@ -60,6 +60,10 @@ Pricing principles, refunds, SLAs, privacy — summary plus link to the source d
 - items marked to confirm
 ```
 
+## Branded document
+
+Start the deliverable with the header block from `references/doc-template.md` and follow its structure. When the environment can render HTML artifacts or files, deliver it with the HTML version of that template; when delivering as a document artifact or markdown, use the header block and the same section structure.
+
 ## Recurring run
 
 At the end of the report, offer a recurring run. Recommended cadence: review the context file monthly and after any change in products, prices or policies.

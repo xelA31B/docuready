@@ -66,3 +66,7 @@ Ask for confirmation: apply all, apply part, or export the plan only.
 - Report: what was done, what was skipped and why, what needs a human decision.
 
 If the source is a connected cloud drive and the available tools cannot move files, deliver the plan, index, glossary and templates as files and list the moves for the user to perform.
+
+## Branded document
+
+Start the deliverable with the header block from `references/doc-template.md` and follow its structure. When the environment can render HTML artifacts or files, deliver it with the HTML version of that template; when delivering as a document artifact or markdown, use the header block and the same section structure.
